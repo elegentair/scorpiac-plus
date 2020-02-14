@@ -1,3 +1,4 @@
+first put the location in the text editor were you want the files to save in the scorpiac+ shell app code on line 40
 to create a program edit the scorpiac+ shell app
 code your program in batch and make a command in the scorpiac shell
 this command will tell the computer to run the program
