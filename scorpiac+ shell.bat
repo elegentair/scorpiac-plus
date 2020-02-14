@@ -37,7 +37,7 @@ cls
 cls
 echo press any key to exit
 pause>nul
-ECHO %text% >"C:\Users\Sam\Desktop\samdocs\%filename%.scorpiacfile"
+ECHO %text% >"C:\put\file\location\here\%filename%.scorpiacfile"
 exit
 
 :shapes
