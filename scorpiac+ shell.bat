@@ -81,6 +81,16 @@ echo ------------------------------------------
 pause
 goto a
 
+:circle
+cls
+echo    -------
+echo  -----------
+echo -------------
+echo  -----------
+echo    -------
+pause
+goto a
+
 :clock
 cls
 echo date: %Date% time: %Time%
